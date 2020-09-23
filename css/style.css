@@ -1,0 +1,25 @@
+.floater {
+  width: 100px;
+  height: 100px;
+  float: right;
+}
+
+.red {
+  background-color: tomato;
+}
+
+.blue {
+  background-color: midnightblue;
+}
+
+.green {
+  background-color: mediumaquamarine;
+}
+
+.yellow {
+  background-color: gold;
+}
+
+.clearer {
+  clear: right;
+}
